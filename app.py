@@ -25,7 +25,6 @@ if img_file_buffer is not None:
     URL = "https://gruhit-patel-covid-prediction.hf.space/get_prediction"
 
     with st.spinner("Waiting for model response..."):
-        st.write("Came in spinner")
         resp = requests.post(
             URL, 
             files = files,
