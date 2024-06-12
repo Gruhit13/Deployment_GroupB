@@ -19,10 +19,7 @@ Due to github's limitation on file size you can clone the hugging face repo to r
 #### App Demo
 [covid-predictor.webm](https://github.com/Gruhit13/Deployment_GroupB/assets/64111603/50c3460e-be1d-4a74-bc14-61577b1d7a09)
 
-
-### Replicate the backend
-
-# COVID Prediction
+### COVID Predictor Backend
 
 This repository contains the code for a COVID prediction model. Follow the steps below to clone the repository, install the required dependencies, and run the application.
 
