@@ -1,0 +1,6 @@
+streamlit
+fastapi
+uvicorn[standard]
+tensorflow==2.15.0
+pillow
+numpy
